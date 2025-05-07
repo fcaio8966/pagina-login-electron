@@ -15,8 +15,31 @@ body {
 }
 
 div{
-    background-color: red;
+    background-color:paleturquoise;
     padding: 32px;
+    font-family: Arial;
+
+    max-width: 400px;
+    border-radius: 40px;
+}
+
+label{
+    font-weight: bold;
     
 }
+
+button{
+    background-color: aqua;
+    margin-top: 20px;
+    padding: 10px;
+}
+
+button:hover{
+    background-color: greenyellow;
+    color: orangered;
+    font-weight: bold;
+    font: 50px;
+    border-radius: 60px;
+} 
+
 
